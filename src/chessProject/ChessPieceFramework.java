@@ -1,5 +1,6 @@
 package chessProject;
 
-public class ChessPieceFramework {
+public class ChessPieceFramework 
+{
 
 }

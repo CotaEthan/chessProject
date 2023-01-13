@@ -1,5 +1,20 @@
 package chessProject;
 
-public class DrawBoard {
+import java.awt.EventQueue;
+import javax.swing.JFrame;
 
+public class DrawBoard 
+{
+	/*
+	 * [][][][][][][][]
+	 * [][][][][][][][]
+	 * [][][][][][][][]
+	 * [][][][][][][][]
+	 * [][][][][][][][]
+	 * [][][][][][][][]
+	 * [][][][][][][][]
+	 * [][][][][][][][]
+	 */
+	int[][] board = new int[8][8];
+	
 }
